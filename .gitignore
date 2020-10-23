@@ -1,3 +1,6 @@
 __pycache__/
 tmp
 .vscode
+data/topic_retention/*
+models/*
+src/
